@@ -1,0 +1,23 @@
+﻿<tasks>
+	<task id="1">
+		<name>Task 1</name>
+		<description>Complete project proposal</description>
+		<priority>High</priority>
+		<due_date>2024-04-12</due_date>
+		<status>Incomplete</status>
+	</task>
+	<task id="2">
+		<name>Task 2</name>
+		<description>Prepare presentation slides</description>
+		<priority>Medium</priority>
+		<due_date>2024-04-15</due_date>
+		<status>Complete</status>
+	</task>
+	<task id="3">
+		<name>Task 3</name>
+		<description>Review project budget</description>
+		<priority>Low</priority>
+		<due_date>2024-04-20</due_date>
+		<status>Incomplete</status>
+	</task>
+</tasks>

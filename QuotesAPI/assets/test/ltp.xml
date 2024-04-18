@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<library>
+	<book>
+		<title>The Art of Programming</title>
+		<author>John Smith</author>
+		<genre>Programming</genre>
+		<year>2022</year>
+		<price>29.99</price>
+	</book>
+	<book>
+		<title>Data Science Essentials</title>
+		<author>Jane Doe</author>
+		<genre>Data Science</genre>
+		<year>2020</year>
+		<price>39.99</price>
+	</book>
+	<book>
+		<title>Web Development Mastery</title>
+		<author>Michael Johnson</author>
+		<genre>Web Development</genre>
+		<year>2021</year>
+		<price>49.99</price>
+	</book>
+	<book>
+		<title>Machine Learning Basics</title>
+		<author>Emily Brown</author>
+		<genre>Machine Learning</genre>
+		<year>2019</year>
+		<price>34.99</price>
+	</book>
+</library>

@@ -1,0 +1,17 @@
+﻿<tlas>
+	<tla>
+		<acronym>API</acronym>
+		<meaning>Application Programming Interface</meaning>
+		<description>An interface that allows software applications to communicate with each other.</description>
+	</tla>
+	<tla>
+		<acronym>SQL</acronym>
+		<meaning>Structured Query Language</meaning>
+		<description>A domain-specific language used for managing and querying relational databases.</description>
+	</tla>
+	<tla>
+		<acronym>HTML</acronym>
+		<meaning>HyperText Markup Language</meaning>
+		<description>A markup language used for creating web pages and web applications.</description>
+	</tla>
+</tlas>

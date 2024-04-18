@@ -1,0 +1,26 @@
+﻿<LRM>
+	<employee>
+		<id>1</id>
+		<name>John Doe</name>
+		<department>Engineering</department>
+		<position>Software Developer</position>
+		<salary>80000</salary>
+		<experience>5 years</experience>
+	</employee>
+	<employee>
+		<id>2</id>
+		<name>Jane Smith</name>
+		<department>Marketing</department>
+		<position>Marketing Manager</position>
+		<salary>95000</salary>
+		<experience>8 years</experience>
+	</employee>
+	<employee>
+		<id>3</id>
+		<name>Michael Johnson</name>
+		<department>Finance</department>
+		<position>Financial Analyst</position>
+		<salary>90000</salary>
+		<experience>6 years</experience>
+	</employee>
+</LRM>

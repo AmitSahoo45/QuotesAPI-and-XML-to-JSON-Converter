@@ -1,0 +1,23 @@
+﻿<jobs>
+	<job>
+		<title>Software Engineer</title>
+		<company>XYZ Tech</company>
+		<location>New York</location>
+		<salary>100000</salary>
+		<description>We are looking for a skilled Software Engineer to join our team...</description>
+	</job>
+	<job>
+		<title>Data Scientist</title>
+		<company>ABC Analytics</company>
+		<location>San Francisco</location>
+		<salary>120000</salary>
+		<description>We are seeking a talented Data Scientist with expertise in machine learning...</description>
+	</job>
+	<job>
+		<title>Project Manager</title>
+		<company>123 Projects</company>
+		<location>Chicago</location>
+		<salary>90000</salary>
+		<description>We are hiring a Project Manager to lead our team and deliver successful projects...</description>
+	</job>
+</jobs>
